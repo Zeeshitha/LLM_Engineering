@@ -1,0 +1,14 @@
+# Product Review Summarizer 🛍️
+
+This project uses OpenAI's GPT-4o to summarize customer reviews into a short, insightful summary.
+
+## Features
+✅ Summarizes product reviews  
+✅ Uses OpenAI API for text generation  
+✅ Works with static data but can be extended to scrape reviews  
+
+## Setup
+1. Clone the repo  
+2. Install dependencies: `pip install -r requirements.txt`  
+3. Add your `OPENAI_API_KEY` in a `.env` file  
+4. Run the Jupyter Notebook  
